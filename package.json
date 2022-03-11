@@ -31,7 +31,7 @@
   "devDependencies": {
     "@types/node": "^16.11.6",
     "graphql": "^15.7.2",
-    "graphql-middleware": "^6.1.11",
+    "graphql-middleware": "github:GeorgesTech/graphql-middleware#chore/graphql-16"
     "prettier": "^2.4.1",
     "rimraf": "^3.0.2",
     "tslint": "^6.1.3",
